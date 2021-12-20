@@ -18,5 +18,5 @@ while True:
         print("Number should be more!")
     
     else:
-        print(f'You have guessed the number! it is {number}! Attepmts number is {count}')
+        print(f'You have guessed the number! it is {number}! Attepmts number is {count}!')
         break # Game over

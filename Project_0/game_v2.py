@@ -39,7 +39,7 @@ def score_game(random_predict) -> int:
         count_list.append(random_predict(number))
 
     score = int(np.mean(count_list))
-    print(f'Your algorithm guesses a number by {score} attempts, on average')
+    print(f'Your algorithm guesses a number by {score} attempts, on average.')
     return(score)
 
 if __name__ == '__main__':
