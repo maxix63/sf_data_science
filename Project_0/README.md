@@ -1,17 +1,17 @@
 # Project_0. Guess a number.
 
 ## Contents 
-[1. Project discription](.README.md#Project-discription)  
-[2. What case do we solve?](.README.md#What-case-do-we-solve)  
-[3. Data summarary](.README.md#Data-summarary)  
-[4. Project milestones](.README.md#Project-milestones)  
-[5. Result](.README.md#Result)    
-[6. Conclusions](.README.md#Conclusions) 
+[1. Project discription](.README.md#https://github.com/maxix63/sf_data_science/blob/main/Project_0/README.md#project-discription)  
+[2. What case do we solve?](.README.md#https://github.com/maxix63/sf_data_science/blob/main/Project_0/README.md#what-case-do-we-solve)  
+[3. Data summarary](.README.md#https://github.com/maxix63/sf_data_science/blob/main/Project_0/README.md#data-summarary)  
+[4. Project milestones](.README.md#https://github.com/maxix63/sf_data_science/blob/main/Project_0/README.md#contentsproject-milestones)  
+[5. Result](.README.md#https://github.com/maxix63/sf_data_science/blob/main/Project_0/README.md#result)    
+[6. Conclusions](.README.md#https://github.com/maxix63/sf_data_science/blob/main/Project_0/README.md#conclusions) 
 
 ### Project discription   
 Guess a number guessed by AI with a minimum number of attempts(less then 20).
 
-:arrow_up: [to contents](_)
+:arrow_up: [to contents](https://github.com/maxix63/sf_data_science/blob/main/Project_0/README.md#contents)
 
 
 ### What case do we solve?    
@@ -31,22 +31,22 @@ We learn how to write a good code on python.
 ### Data summarary
 ....
   
-:arrow_up: [to contents](.README.md#Contents)
+:arrow_up: [to contents](.README.md#https://github.com/maxix63/sf_data_science/blob/main/Project_0/README.md#contents)
 
 
 ### Project milestones  
 ....
 
-:arrow_up: [to contents](.README.md#Contents)
+:arrow_up: [to contents](.README.md#https://github.com/maxix63/sf_data_science/blob/main/Project_0/README.md#contents)
 
 
 ### Result:  
 The average number of attempts with seed fixation is 6.
 
-:arrow_up: [to contents](.README.md#Contents)
+:arrow_up: [to contents](.README.md#https://github.com/maxix63/sf_data_science/blob/main/Project_0/README.md#contents)
 
 
 ### Conclusions:  
 ....
 
-:arrow_up: [to contents](.README.md#Contents)
+:arrow_up: [to contents](.README.md#https://github.com/maxix63/sf_data_science/blob/main/Project_0/README.md#contents)
