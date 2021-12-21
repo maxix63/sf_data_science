@@ -18,14 +18,17 @@ def random_predict(number: int = 1) -> int:
         count+=1
         predict_number = np.random.randint(1, 101)  # Predict number
         
-        if predict_number >= 50 and predict_number > number:
-                predict_number = predict_number // 2
-        if predict_number <= 50 and predict_number < number:
-                predict_number = predict_number + predict_number // 2  
+        if predict_number > 60 and predict_number > number:
+            predict_number = predict_number // 2
+        elif predict_number < 40 and predict_number < number:
+            predict_number = predict_number + predict_number // 2  
         else:
+            print(f"You have guessed the number! It is = {number}, number of attempts is {count}.")
             break  # Game over
         
-    return(count) 
+    return count
+
+
 
 def score_game(random_predict) -> int:
     """Get average number of attpemtps for 1000 repetitions of guess function runs
