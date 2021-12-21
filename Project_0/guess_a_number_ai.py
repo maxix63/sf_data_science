@@ -23,7 +23,7 @@ def random_predict(number: int = 1) -> int:
         elif predict_number < 40 and predict_number < number:
             predict_number = predict_number + predict_number // 2  
         else:
-            print(f"You have guessed the number! It is = {number}, number of attempts is {count}.")
+            # print(f"You have guessed the number! It is = {number}, number of attempts is {count}.")
             break  # Game over
         
     return count
