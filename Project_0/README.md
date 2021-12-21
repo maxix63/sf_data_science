@@ -21,7 +21,7 @@ It needs to make a programm, which are guessing a number with a minimum number o
 - AI guesses a number from 1 to 100, and our programm has to guess it. 
 - The algorithm takes into account information about whether the random number is more or less than what we need. 
 
-**Quality metric **     
+**Quality metric**     
 Results are measured by the average number of attempts at 1000 repetitions. It should be less then 20 on average.
 
 **What we practice**     
