@@ -41,7 +41,7 @@ We learn how to write a good code on python.
 
 
 ### Result:  
-The average number of attempts with a seed fixation is 5.
+The average number of attempts is 5.
 
 :arrow_up: [to contents](https://github.com/maxix63/sf_data_science/blob/main/Project_0/README.md#contents)
 
