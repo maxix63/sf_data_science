@@ -11,7 +11,6 @@ def random_predict(number: int = 1) -> int:
     Returns:
         int: Attempts number
     """
-    
     count = 0
 
     while True:
@@ -24,8 +23,7 @@ def random_predict(number: int = 1) -> int:
             predict_number = predict_number + predict_number // 2  
         else:
             # print(f"You have guessed the number! It is = {number}, number of attempts is {count}.")
-            break  # Game over
-        
+            break  # Game over 
     return count
 
 
@@ -33,13 +31,12 @@ def random_predict(number: int = 1) -> int:
 def score_game(random_predict) -> int:
     """Get average number of attpemtps for 1000 repetitions of guess function runs
 
-     Args
+     Args:
         random_predict ([type]): Guess function
 
     Returns:
         int: Average attempts number
     """
- 
     count_list = [] # list of attempts number
     np.random.seed(1) # fixation seed for reproduction
     random_array = np.random.randint(1, 101, size=(1000)) # Guessed number list
