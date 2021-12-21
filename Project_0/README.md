@@ -9,7 +9,7 @@
 [6. Conclusions.](https://github.com/maxix63/sf_data_science/blob/main/Project_0/README.md#conclusions) 
 
 ### Project discription.   
-Guess a number guessed by AI with a minimum number of attempts(less then 20).
+Guess a number guessed by AI with a minimum number of attempts.
 
 :arrow_up: [to contents](https://github.com/maxix63/sf_data_science/blob/main/Project_0/README.md#contents)
 
