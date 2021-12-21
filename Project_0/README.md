@@ -24,8 +24,8 @@ It needs to make a programm, which are guessing a number with a minimum number o
 **Quality metric**     
 Results are measured by the average number of attempts at 1000 repetitions. It should be less then 20 on average.
 
-**What we practice**     
-We learn how to write a good code on python
+**What do we practice?**     
+We learn how to write a good code on python.
 
 
 ### Data summarary
