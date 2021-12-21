@@ -11,18 +11,19 @@ def random_predict(number: int = 1) -> int:
     Returns:
         int: Attempts number
     """
+    top = 101
+    bottom = 1
     count = 0
 
     while True:
         count+=1
-        predict_number = np.random.randint(1, 101)  # Predict number
+        predict = (top+bottom) // 2 # Predict the middle
         
-        if predict_number > 60 and predict_number > number:
-            predict_number = predict_number // 2
-        elif predict_number < 40 and predict_number < number:
-            predict_number = predict_number + predict_number // 2  
-        else:
-            # print(f"You have guessed the number! It is = {number}, number of attempts is {count}.")
+        if predict > number:
+            top = predict - 1 # Top border goes down
+        elif predict < number:
+            bottom = predict + 1  # Bottom border goes up
+        elif predict == number:
             break  # Game over 
     return count
 
