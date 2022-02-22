@@ -28,7 +28,7 @@ We practice how to clean data with python.
 
 
 ### Data summarary.
-....
+hh_database.csv: https://drive.google.com/file/d/1QBPSjfpxPw-ShUqdegn0cY1QSkzscojm/view?usp=sharing
   
 :arrow_up: [to contents](https://github.com/maxix63/sf_data_science/blob/main/Project_1/README.md#contents)
 
