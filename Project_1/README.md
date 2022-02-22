@@ -1,4 +1,4 @@
-# Project_1. Job analysis on hh.ru.
+# Project_1. Job analysis from hh.ru.
 
 ## Contents. 
 [1. Project discription.](https://github.com/maxix63/sf_data_science/blob/main/Project_1/README.md#project-discription)  
@@ -9,7 +9,7 @@
 [6. Conclusions.](https://github.com/maxix63/sf_data_science/blob/main/Project_1/README.md#conclusions) 
 
 ### Project discription.   
-Transform, explore and refine data from the website with job proposals.
+Transform, explore and refine data from the website with vacancies.
 
 :arrow_up: [to contents](https://github.com/maxix63/sf_data_science/blob/main/Project_1/README.md#contents)
 
