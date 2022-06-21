@@ -28,7 +28,7 @@ We practice how to teach a model.
 
 
 ### Data summarary.
-hotels.csv: https://drive.google.com/file/d/1QBPSjfpxPw-ShUqdegn0cY1QSkzscojm/view?usp=sharing
+hotels.csv: https://drive.google.com/file/d/1Qj0iYEbD64eVAaaBylJeIi3qvMzxf2C_/view?usp=sharing
   
 :arrow_up: [to contents](https://github.com/maxix63/sf_data_science/blob/main/Project_3/README.md#contents)
 
