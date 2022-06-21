@@ -1,4 +1,4 @@
-# Project_3. Forecast_for_hotel_score.
+# Project_3. Forecast for hotel score.
 
 ## Contents. 
 [1. Project discription.](https://github.com/maxix63/sf_data_science/blob/main/Project_3/README.md#project-discription)  
